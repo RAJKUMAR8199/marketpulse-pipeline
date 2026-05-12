@@ -159,6 +159,15 @@ API_KEY=optional
 ```
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 111101" src="https://github.com/user-attachments/assets/fba5d57e-07e1-41b8-b9cc-5b81f1d0ee9d" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 111327" src="https://github.com/user-attachments/assets/402c05f5-d49e-4177-8f6c-21bf32492232" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-12 111434" src="https://github.com/user-attachments/assets/102bafd4-bbb0-49c6-b476-04db09f01bc8" />
+
+
+
+
 
 ## Future Improvements
 
